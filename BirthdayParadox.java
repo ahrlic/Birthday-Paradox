@@ -7,7 +7,6 @@ import simpleIO.Console;
 
 /**
  * @author Ariana Hrlic 
- * ICS3U 
  * April 7th, 2023 
  * BirthdayParadox.java
  * BirthdayParadox
