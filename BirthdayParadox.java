@@ -1,8 +1,3 @@
-/**
- * 
- */
-package assignment;
-
 import simpleIO.Console;
 
 /**
